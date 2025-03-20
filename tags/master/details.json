@@ -86,7 +86,10 @@
     {
         "id": 511,
         "text": "MYTH: +Primula",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "itemIds": [
+            22114
+        ]
     },
     {
         "id": 512,
